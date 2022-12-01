@@ -1,0 +1,24 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="622" />
+    <option name="newTranslationDialogY" value="413" />
+    <histories>
+      <item value="解决方案" />
+      <item value="解决发难" />
+      <item value="ji" />
+      <item value="determine if wumpus is in adjacent cave @return whether wumpus location is in a cave connected to current" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669812045579" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
