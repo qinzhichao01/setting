@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="STICKY_BALLOON" shouldLog="false" playSound="true" />
     <notification groupId="Translation Plugin" shouldLog="false" />
   </component>
 </application>
